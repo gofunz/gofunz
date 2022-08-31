@@ -7,6 +7,21 @@
   />
 </picture>
 
+<p align="center">
+
+![](https://visitor-badge.glitch.me/badge?page_id=gogoafuzzz.gogoafuzzz)
+    <a href="https://github.com/gogoafuzzz/"><img src="https://img.shields.io/github/followers/gogoafuzzz?style=social"/></a>
+</p>
+
+## About Me
+
+目前主要以 Laravel & PHP 開發後端網站，偶爾針對 Open Source 套件提出 Pull Request 希望對這個社群能有點貢獻！😆
+
+閒暇之餘也會看看 SOLID & Clean Architecture 讓自身寫程式的品質能夠更好！
+
+## 📚 My Favorite Books
+- [無瑕的程式碼－敏捷完整篇－物件導向原則、設計模式與 C#實踐 Agile principles, patterns, and practices in C#](https://www.tenlong.com.tw/products/9789864342099)
+
 ## 🖥️ Technologies and Skills
 
 ### Frontend
@@ -33,13 +48,24 @@
 [![Redis](https://img.shields.io/badge/redis-gray?style=for-the-badge&logo=Redis&logoColor=redi)](#)
 [![Lua](https://img.shields.io/badge/Lua-gray?style=for-the-badge&logo=Lua&logoColor=red)](#)
 
-</br></br>
+## Contact
+
+
+
+---
+
+<p align="center">
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogoafuzzz&theme=nord_dark">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogoafuzzz&theme=nord_dark">
+</picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/gogoafuzzz">
     <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gogoafuzzz&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
     <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gogoafuzzz&layout=compact&langs_count=10&theme=calm&count_private=true"/>
   </a>
-
-  </a>
 </p>
+
+
