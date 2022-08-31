@@ -48,10 +48,6 @@
 [![Redis](https://img.shields.io/badge/redis-gray?style=for-the-badge&logo=Redis&logoColor=redi)](#)
 [![Lua](https://img.shields.io/badge/Lua-gray?style=for-the-badge&logo=Lua&logoColor=red)](#)
 
-## Contact
-
-
-
 ---
 
 <p align="center">
