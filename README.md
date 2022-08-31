@@ -10,7 +10,8 @@
 <p align="center">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gogoafuzzz.gogoafuzzz)
-    <a href="https://github.com/gogoafuzzz/"><img src="https://img.shields.io/github/followers/gogoafuzzz?style=social"/></a>
+<a href="https://github.com/gogoafuzzz/"><img src="https://img.shields.io/github/followers/gogoafuzzz?style=social"/></a>
+
 </p>
 
 ## About Me
@@ -20,6 +21,7 @@
 閒暇之餘也會看看 SOLID & Clean Architecture 讓自身寫程式的品質能夠更好！
 
 ## 📚 My Favorite Books
+
 - [無瑕的程式碼－敏捷完整篇－物件導向原則、設計模式與 C#實踐 Agile principles, patterns, and practices in C#](https://www.tenlong.com.tw/products/9789864342099)
 
 ## 🖥️ Technologies and Skills
@@ -59,9 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/gogoafuzzz">
-    <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gogoafuzzz&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gogoafuzzz&layout=compact&langs_count=10&theme=calm&count_private=true"/>
+    <img align="left" width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gogoafuzzz&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+    <img align="right" width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gogoafuzzz&layout=compact&langs_count=10&theme=calm&count_private=true"/>
   </a>
 </p>
-
-
