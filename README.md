@@ -14,6 +14,14 @@
 
 </p>
 
+<p align="left">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogoafuzzz&theme=nord_dark"/>
+
+</p>
+
+---
+
 ## About Me
 
 目前主要以 Laravel & PHP 開發後端網站，偶爾針對 Open Source 套件提出 Pull Request 希望對這個社群能有點貢獻！😆
@@ -49,19 +57,3 @@
 [![MySQL](https://img.shields.io/badge/mysql-gray?style=for-the-badge&logo=MySQL&logoColor=blue)](#)
 [![Redis](https://img.shields.io/badge/redis-gray?style=for-the-badge&logo=Redis&logoColor=redi)](#)
 [![Lua](https://img.shields.io/badge/Lua-gray?style=for-the-badge&logo=Lua&logoColor=red)](#)
-
----
-
-<p align="center">
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogoafuzzz&theme=nord_dark">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogoafuzzz&theme=nord_dark">
-</picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/gogoafuzzz">
-    <img align="left" width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gogoafuzzz&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img align="right" width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gogoafuzzz&layout=compact&langs_count=10&theme=calm&count_private=true"/>
-  </a>
-</p>
