@@ -2,7 +2,7 @@
     align="left">
 <img
     src="assets/about.gif"
-    alt="Hi I'm Elliot. I currently a web full stack developer."
+    alt="Hi I'm Afu. I currently a web full stack developer."
     style="width: 100%;"
   />
 </picture>
