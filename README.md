@@ -16,7 +16,7 @@
 
 <p align="left">
 
-<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogoafuzzz&theme=nord_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gogoafuzzz&theme=nord_dark"/>
 
 </p>
 
