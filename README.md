@@ -28,6 +28,9 @@
 
 閒暇之餘也會看看 SOLID & Clean Architecture 讓自身寫程式的品質能夠更好！
 
+## 📄 My CV
+[我的履歷可參考連結](https://tinyurl.com/frank-cv-1837)
+
 ## 📚 My Favorite Books
 
 - [無瑕的程式碼－敏捷完整篇－物件導向原則、設計模式與 C#實踐 Agile principles, patterns, and practices in C#](https://www.tenlong.com.tw/products/9789864342099)
